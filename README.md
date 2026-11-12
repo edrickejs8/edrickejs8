@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Edrick 👋
 
-<!--
-**edrickejs8/edrickejs8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Developer** · Computer Science graduate from BINUS University 🎓
 
-Here are some ideas to get you started:
+I build web apps end to end, from database to UI, and I'm currently building a startup with my team.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently working on
+
+- Building **SimpleProd**: [one sentence on what it does and who it's for]
+- Shipping features across the stack as a Full Stack Developer
+
+## 🛠️ Tools I use
+
+- **Frontend:** TypeScript, React, Next.js, Tailwind CSS
+- **Backend:** Node.js, REST APIs
+- **Database:** PostgreSQL
+- **Tooling:** Git, GitHub, Docker
+
+## 📫 Get in touch
+
+- LinkedIn: www.linkedin.com/in/edrickerickarjeffrysoewandi
+- Email: edrickejs24@gmail.com
