@@ -6,7 +6,7 @@ I build web apps end to end, from database to UI, and I'm currently building a s
 
 ## 🚀 Currently working on
 
-- Building **SimpleProd**: [one sentence on what it does and who it's for]
+- Building **SimpleProd**: an all-in-one platform that helps filmmakers manage every stage of production, from idea to final cut, without the chaos.
 - Shipping features across the stack as a Full Stack Developer
 
 ## 🛠️ Tools I use
